@@ -1,0 +1,9 @@
+.vagrant/
+CICD/
+gitlab/
+Dockerfile
+go.mod
+README.md
+*.go
+*.log
+Vagrantfile
